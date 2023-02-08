@@ -1,6 +1,6 @@
 # World Happiness Report Analysis
 
-!(image.webp)
+![Image](image.webp)
 
 [Dataset link](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
 
