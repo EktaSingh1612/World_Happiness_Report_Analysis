@@ -20,10 +20,10 @@ The Happiness Score is a national average of the responses to the main life eval
 
 The Happiness Score is explained by the following factors:
 
-GDP per capita
-Healthy Life Expectancy
-Social support
-Freedom to make life choices
-Generosity
-Corruption Perception
-Residual error
+- GDP per capita
+- Healthy Life Expectancy
+- Social support
+- Freedom to make life choices
+- Generosity
+- Corruption Perception
+- Residual error
